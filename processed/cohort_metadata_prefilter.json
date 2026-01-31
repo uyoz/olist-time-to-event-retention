@@ -1,0 +1,13 @@
+{
+  "snapshot_ts": "2018-10-17 17:30:18",
+  "customers_with_delivered_index_order": 93350,
+  "cohort_rows": 93350,
+  "event_rate_any_repurchase": 0.01930369576861275,
+  "excluded_repurchase_statuses": [
+    "canceled",
+    "unavailable"
+  ],
+  "index_order_definition": "earliest delivered order by delivery_dt, tie-break by purchase_dt",
+  "repurchase_definition": "earliest subsequent order with purchase_dt > t0 and valid status",
+  "notes": "Pre-filter cohort: all customers with delivered index order. Potential follow-up varies by t0; late-entry customers have <180 days before snapshot."
+}
