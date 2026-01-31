@@ -1,0 +1,12 @@
+=== PAPER 1 (SURVIVAL): KM BASELINE (FILTERED) ===
+Snapshot timestamp: 2018-10-17 17:30:18
+Follow-up filter: >= 180 days
+Rows: 63,760
+Event rate: 2.45%
+Median time-to-repurchase (KM median): inf
+
+Repurchase by  30 days: 0.55%  |  Survival: 99.45%
+Repurchase by  60 days: 0.89%  |  Survival: 99.11%
+Repurchase by  90 days: 1.12%  |  Survival: 98.88%
+Repurchase by 180 days: 1.75%  |  Survival: 98.25%
+Repurchase by 365 days: 2.59%  |  Survival: 97.41%
